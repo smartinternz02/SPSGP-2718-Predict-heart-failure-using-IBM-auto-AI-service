@@ -20,3 +20,6 @@ Project Workflow -
 12. Integrated The Node red app with Auto AI model using http requests and api reference key.
 13. Ran a few test cases - results as expected.
 
+!!! Imortant Note !!!
+The default lite plan for auto AI services limit (that is 20 Capacity Unit Hours) has been utilized whiile running different test cases for the project.
+Therfore the node red app link wont be working untill 30th of june by which the plan gets renwed again. Required csv files uploaded which shows the usage of the services as mentioned above and a screen shot (CapacityUnitHour.png) which shows the same error message. 
